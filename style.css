@@ -1,12 +1,7 @@
-.banner{
-    display: flex;
-    background: url(/bgimg.jpg);
-    min-height: 100vh;
-    background-size: cover;
-    margin: -22px; 
-}
+
 
 .glitch {
+    place-items: center;
     font-size: 8rem;
     font-weight: 700;
     text-transform: uppercase;
